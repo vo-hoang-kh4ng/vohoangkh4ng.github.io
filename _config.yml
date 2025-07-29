@@ -1,0 +1,5 @@
+title: Blog của tôi
+description: Nơi tôi chia sẻ suy nghĩ
+theme: minima
+plugins:
+  - jekyll-feed
