@@ -1,0 +1,10 @@
+/* Responsive design */
+@media (max-width: 768px) {
+    body { padding: 10px; font-size: 14px; }
+}
+
+/* Dark mode */
+.dark-mode {
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
